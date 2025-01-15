@@ -22,7 +22,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/notesjs.git
+   git clone https://github.com/CristianSch248/Notes.git
    cd notesjs
    ```
 
